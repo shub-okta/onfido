@@ -1,0 +1,7 @@
+extends layout
+
+block content
+  .demo-center-text
+    h3= message
+    if error !== undefined && error.stack !== undefined
+      pre #{error.stack}
