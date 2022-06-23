@@ -1,4 +1,4 @@
-**NOTE: This is an example only and should not be used in any production environment.**
+**NOTE: This is an example only and should not be used in any production environment.** <br>
 **To Be Used for Auth0 Internal Demos -- clone before adding any credentials**
 
 # Auth0 + Onfido Sample Rule App
