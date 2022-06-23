@@ -31,8 +31,8 @@ First set the environment variables (sample found in `env/.sample.env`):
 
 Then simply `git clone`, `npm install`, and `npm run build`
 
-    git clone https://github.com/jhickmanit/auth0-onfido-rule
-    cd auth0-onfido-rule
+    git clone https://github.com/shub-okta/onfido
+    cd onfido
     npm install
     npm run build
 The rule provided can be placed into your Auth0 tenant. Simply copy the contents (`rules-sample/onfido-idv-rule.js`) and paste into a new rule. (see: [https://auth0.com/docs/rules/create-rules](https://auth0.com/docs/rules/create-rules))
